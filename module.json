@@ -1,12 +1,15 @@
 {
-  "title": "Boss Bar",
-  "description": "Add a souls-like boss healthbar to the scene",
+  "title": "Boss Bar With Carousel Compatibility",
+  "description": "The boss bar, but compatible with the carousel module.",
   "version": "0.1",
   "authors": [
     {
       "name": "theripper93",
       "email": "tsplab@gmail.com",
       "url": "https://www.patreon.com/theripper93"
+    },
+    {
+        "name": "Wesley"
     }
   ],
   "languages": [
@@ -63,7 +66,7 @@
       "private": false
     }
   ],
-  "url": "https://github.com/theripper93/Boss-Bar",
+  "url": "https://github.com/thomaswesleyb/Boss-Bar",
   "manifest": "https://github.com/theripper93/Boss-Bar/releases/latest/download/module.json",
   "download": "https://github.com/theripper93/Boss-Bar/releases/latest/download/module.zip",
   "socket": true,
